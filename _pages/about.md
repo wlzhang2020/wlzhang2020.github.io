@@ -10,16 +10,19 @@ redirect_from:
 
 ## Introduction
 
-I am now a second-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
+I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
 
-My research interest includes Recommender System, Information Retrieval, Large Language Models.
+My research interests include Large Language Models, Recommender System, Information Retrieval.
 
 For more information, please feel free to contact me.
 Email: wl.z@my.cityu.edu.hk.
 
 ## Selected Publications
 ### Conference & Journal Papers
-
+* **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069)**
+  * Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * NeurIPS'25, Proceedings of the 39th Annual Conference on Neural Information Processing Systems
+    
 * **[LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://aclanthology.org/2025.coling-main.59/)**
   * Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * COLING'25, Proceedings of the 31st International Conference on Computational Linguistics
@@ -29,7 +32,7 @@ Email: wl.z@my.cityu.edu.hk.
 Research Intern - Huawei, Noah's Ark Lab
 
 ## Teaching Experience
-
+2025\~2026 Semester A - SDSC5002 Exploratory Data Analysis and Visualization, TA\
 2024\~2025 Semester B - GE2343_SDSC2004 Data Visualization, TA\
 2024\~2025 Semester A - SDSC5002 Exploratory Data Analysis and Visualization, TA\
 
@@ -37,7 +40,12 @@ Research Intern - Huawei, Noah's Ark Lab
 COLING'2025
 
 ## News
+[2025.9] Our paper ReasonRAG is accepted to NeurIPS'25!
+[2025.8] I'm honored to receive the Outstanding Academic Performance Award (OAPA) granted by CityU HK. 
+[2025.8] I'm honored to receive the Research Tuition Scholarship (RTS) granted by CityU HK. 
 [2024.12] Serve as the Volunteer in COLING'2025.
+[2024.12] Our paper LLMTreeRec is accepted to COLING'2025.
+[2024.8] I'm honored to receive the Research Tuition Scholarship (RTS) granted by CityU HK. 
 [2023.9] Start my Ph.D. at CityU HK.
 
 <!-- Publication
