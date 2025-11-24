@@ -19,7 +19,7 @@ Email: wl.z@my.cityu.edu.hk.
 
 ## Selected Publications
 ### Conference & Journal Papers
-* ****Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing
+* **Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing**
   * Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
   * KDD’26 (Benchmark track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
