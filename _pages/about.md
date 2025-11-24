@@ -45,13 +45,21 @@ COLING'2025
 
 ## News
 [2025.11] Our paper AB Agent is accepted to KDD'26 Benchmark Track!
+
 [2025.11] Our paper PBR is accepted to AAAI'26!
+
 [2025.9] Our paper ReasonRAG is accepted to NeurIPS'25!
+
 [2025.8] I'm honored to receive the Outstanding Academic Performance Award (OAPA) granted by CityU HK. 
+
 [2025.8] I'm honored to receive the Research Tuition Scholarship (RTS) granted by CityU HK. 
+
 [2024.12] Serve as the Volunteer in COLING'2025.
+
 [2024.12] Our paper LLMTreeRec is accepted to COLING'2025.
+
 [2024.8] I'm honored to receive the Research Tuition Scholarship (RTS) granted by CityU HK. 
+
 [2023.9] Start my Ph.D. at CityU HK.
 
 <!-- Publication
