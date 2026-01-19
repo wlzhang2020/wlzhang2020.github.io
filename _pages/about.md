@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
+I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020, supervised by [Prof. Xuelong Li](http://xuelongli.cn/). 
 
 My research interests include Large Language Models, Search Agent, and Recommender System.
 
