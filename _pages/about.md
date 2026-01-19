@@ -12,24 +12,54 @@ redirect_from:
 
 I am now a third-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) CityU, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I got M.S. and BS degree from Northwestern Polytechnical university in 2023 and 2020. 
 
-My research interests include Large Language Models, Recommender System, Information Retrieval.
+My research interests include Large Language Models, Search Agent, and Recommender System.
 
 For more information, please feel free to contact me.
 Email: wl.z@my.cityu.edu.hk.
 
 ## Selected Publications
 ### Conference & Journal Papers
+* **To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention**
+  *  **Wenlin Zhang**, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao
+  * WWW’26, Proceedings of the ACM Web Conference 2026, CCF-A
+
 * **Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing**
-  * Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * **Wenlin Zhang**, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
   * KDD’26 (Benchmark track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
 * **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069)**
-  * Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * **Wenlin Zhang**, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
   * NeurIPS'25, Proceedings of the 39th Annual Conference on Neural Information Processing Systems, CCF A
     
 * **[LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://aclanthology.org/2025.coling-main.59/)**
-  * Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
+  * **Wenlin Zhang**, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * COLING'25, Proceedings of the 31st International Conference on Computational Linguistics, CCF B
+ 
+* **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**
+  * Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, **Wenlin Zhang**, Wanyu Wang, Yichao Wang, Xiangyang Li, Zhaocheng Du, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
+  * TOIS, ACM Transactions on Information Systems, CCF-A
+* **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://arxiv.org/abs/2510.08935)**
+  * Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, **Wenlin Zhang**, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao
+  * AAAI’26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
+
+* **[NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations](https://arxiv.org/abs/2511.18793)**
+  * Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, Maolin Wang, **Wenlin Zhang**, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu, Xiangyu Zhao
+  * WWW’26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A
+
+* **[GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks](https://arxiv.org/abs/2506.16114)**
+  * Yejing Wang, Shengyu Zhou, Jinyu Lu, Qidong Liu, Xinhang Li, **Wenlin Zhang**, Feng Li, Pengjie Wang, Jian Xu, Bo Zheng, Xiangyu Zhao
+
+* **[Towards Multi-Granularity Memory Association and Selection for Long-Term Conversational Agents](https://arxiv.org/abs/2505.19549)**
+  * Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, **Wenlin zhang**, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu
+
+* **[Graph Convolution RPCA With Adaptive Graph](https://ieeexplore.ieee.org/document/9852159)**
+  * Rui Zhang, **Wenlin Zhang**, Pei Li, Xuelong Li
+  * IEEE Transactions on Image Processing, CCF-A
+
+* **[Robust kernel principal component analysis with optimal mean](https://www.sciencedirect.com/science/article/abs/pii/S0893608022001770)**
+  * Pei Li, **Wenlin Zhang**, Chengjun Lu, Rui Zhang, Xuelong Li
+  * Neural Networks, CCF-B
+
  
 ## Work Experience
 
@@ -44,6 +74,8 @@ Research Intern - Huawei, Noah's Ark Lab
 COLING'2025
 
 ## News
+[2026.01] Our paper 'To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention' is accepted to WWW'26!
+
 [2025.11] Our paper AB Agent is accepted to KDD'26 Benchmark Track!
 
 [2025.11] Our paper PBR is accepted to AAAI'26!
