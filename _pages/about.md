@@ -60,6 +60,14 @@ Email: wl.z@my.cityu.edu.hk.
   * Pei Li, **Wenlin Zhang**, Chengjun Lu, Rui Zhang, Xuelong Li
   * Neural Networks, CCF-B
 
+## Honors and Awards
+* 2025.08 Outstanding Academic Performance Award (OAPA) and Research Tuition Scholarship(RTS), Granted by CityUHK
+* 2025.10 NeurIPS 2025 Travel Award, Granted by NeurIPS 2025
+* 2025.01 COLING 2025 Volunteer
+* 2024.08 Research Tuition Scholarship(RTS), Granted by CityUHK
+* 2023 National Scholarship, Granted by NWPU
+* 2018 ACM-ICPC Asia QingDao Regional Contest Silver Medal
+
  
 ## Work Experience
 
@@ -69,9 +77,6 @@ Research Intern - Huawei, Noah's Ark Lab
 2025\~2026 Semester A - SDSC5002 Exploratory Data Analysis and Visualization, TA\
 2024\~2025 Semester B - GE2343_SDSC2004 Data Visualization, TA\
 2024\~2025 Semester A - SDSC5002 Exploratory Data Analysis and Visualization, TA\
-
-**Conference Volunteer**:\
-COLING'2025
 
 ## News
 [2026.01] Our paper 'To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention' is accepted to WWW'26!
