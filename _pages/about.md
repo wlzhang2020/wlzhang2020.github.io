@@ -23,7 +23,7 @@ Email: wl.z@my.cityu.edu.hk.
   *  **Wenlin Zhang**, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao
   * WWW’26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-* **Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing**
+* **[Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing](https://arxiv.org/abs/2601.04554)**
   * **Wenlin Zhang**, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
   * KDD’26 (Benchmark track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
