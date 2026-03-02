@@ -35,6 +35,14 @@ Email: wl.z@my.cityu.edu.hk.
   * **Wenlin Zhang**, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang
   * COLING'25, Proceedings of the 31st International Conference on Computational Linguistics, CCF B
  
+* **Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval**
+  * Yingyi Zhang, Junyi Li, **Wenlin Zhang**, Pengyue Jia, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao
+  * ICLR'26, Proceedings of the 40th International Conference on Learning Representations
+
+* **From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents**
+  * Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, **Wenlin Zhang**, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu
+  * ICLR'26, Proceedings of the 40th International Conference on Learning Representations
+ 
 * **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**
   * Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, **Wenlin Zhang**, Wanyu Wang, Yichao Wang, Xiangyang Li, Zhaocheng Du, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao
   * TOIS, ACM Transactions on Information Systems, CCF-A
@@ -79,6 +87,8 @@ Research Intern - Huawei, Noah's Ark Lab
 2024\~2025 Semester A - SDSC5002 Exploratory Data Analysis and Visualization, TA\
 
 ## News
+[2026.01] Our paper about 'Personalized Memory Retrieval' and 'Long-Term Memory' has been accepted to ICLR'26, congratulations to Yingyi and Derong!
+
 [2026.01] Our paper 'To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention' is accepted to WWW'26!
 
 [2025.11] Our paper AB Agent is accepted to KDD'26 Benchmark Track!
