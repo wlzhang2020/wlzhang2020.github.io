@@ -1,4 +1,14 @@
 main:
+  - title: "Tutorial on Generative Recommendation: Foundations and Frontiers"
+    authors: "Xiaopeng Li, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, <strong>Wenlin Zhang</strong>, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao"
+    conference_short: "KDD'26"
+    conference: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD'26 Tutorial)</strong>."
+
+  - title: "Bridging Personalization and AI: From RAG to Agent"
+    authors: "Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, Yingyi Zhang, <strong>Wenlin Zhang</strong>, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao"
+    conference_short: "SIGIR'26"
+    conference: "Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR'26 Tutorial)</strong>."
+
   - title: "To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention"
     authors: "<strong>Wenlin Zhang</strong>, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao"
     conference_short: "WWW'26"
@@ -9,6 +19,37 @@ main:
     conference_short: "KDD'26"
     conference: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD'26 Benchmark Track)</strong>, CCF-A."
     pdf: https://arxiv.org/abs/2601.04554
+
+  - title: "T-GINEE: A Tensor-Based Multi-Graph Representation Learning"
+    authors: "Maolin Wang, Xuhui Chen, Ziting Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, <strong>Wenlin Zhang</strong>, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, Xiangyu Zhao"
+    conference_short: "ICML'26"
+    conference: "Proceedings of the 43rd International Conference on Machine Learning <strong>(ICML'26)</strong>, CCF-A."
+
+  - title: "Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization"
+    authors: "Junyi Li, Xiaowei Qian, Yingyi Zhang, <strong>Wenlin Zhang</strong>, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang, Xiangyu Zhao"
+    conference_short: "ICML'26"
+    conference: "Proceedings of the 43rd International Conference on Machine Learning <strong>(ICML'26)</strong>, CCF-A."
+    notes: "Spotlight"
+
+  - title: "MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search"
+    authors: "Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, <strong>Wenlin Zhang</strong>, Maolin Wang, Yong Liu, Xiangyu Zhao"
+    conference_short: "ACL'26"
+    conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, CCF-A."
+
+  - title: "MTA: A Merge-then-Adapt Framework for Personalized Large Language Models"
+    authors: "Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, <strong>Wenlin Zhang</strong>, Pengyue Jia, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao"
+    conference_short: "ACL'26"
+    conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, CCF-A."
+
+  - title: "Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory"
+    authors: "Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, <strong>Wenlin Zhang</strong>, Enhong Chen, Xiangyu Zhao, Tong Xu"
+    conference_short: "ACL'26"
+    conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, CCF-A."
+
+  - title: "Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery"
+    authors: "Xiaopeng Li, <strong>Wenlin Zhang</strong>, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao"
+    conference_short: "SIGIR'26"
+    conference: "Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR'26 Resource Track)</strong>, CCF-A."
 
   - title: "Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning"
     authors: "<strong>Wenlin Zhang</strong>, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao"
@@ -51,10 +92,11 @@ main:
     pdf: https://arxiv.org/abs/2511.18793
 
   - title: "GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks"
-    authors: "Yejing Wang, Shengyu Zhou, Jinyu Lu, Qidong Liu, Xinhang Li, <strong>Wenlin Zhang</strong>, Feng Li, Pengjie Wang, Jian Xu, Bo Zheng, Xiangyu Zhao"
-    conference_short: "Preprint"
-    conference: "Preprint."
+    authors: "Yejing Wang, Shengyu Zhou, Jinyu Lu, Qidong Liu, Xinhang Li, <strong>Wenlin Zhang</strong>, Feng Li, Pengjie Wang, Chuan Yu, Jian Xu, Bo Zheng, Xiangyu Zhao"
+    conference_short: "SIGIR'26"
+    conference: "Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR'26)</strong>, CCF-A."
     pdf: https://arxiv.org/abs/2506.16114
+    notes: "Deployed across Taobao businesses"
 
   - title: "Towards Multi-Granularity Memory Association and Selection for Long-Term Conversational Agents"
     authors: "Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, <strong>Wenlin Zhang</strong>, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu"
