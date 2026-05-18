@@ -18,8 +18,8 @@ github_link: https://github.com/wlzhang2020
 
 # Images
 avatar: ./assets/img/profile.png
-favicon: ./assets/img/logo.png
-favicon_dark: ./assets/img/logo.png
+favicon: ./assets/img/favicon-w.png
+favicon_dark: ./assets/img/favicon-w.png
 
 # Theme options
 enable_footnote: true
