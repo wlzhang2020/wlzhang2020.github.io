@@ -39,9 +39,10 @@ For more information, please feel free to contact me at wl.z@my.cityu.edu.hk.
 
 {% include_relative _includes/publications.md %}
 
-## 💼 Work Experience
+## 💼 Internships
 
 - **Research Intern**, Huawei, Noah's Ark Lab.
+- **Research Intern**, Kuaishou.
 
 ## ✏️ Teaching Experience
 
