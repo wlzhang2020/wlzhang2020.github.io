@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## <i class="fa-solid fa-user" style="color:#e74d3c; margin-right: 6px;"></i> About Me
 
 I am a third-year Ph.D. candidate at [AML Lab](https://aml-cityu.github.io/), City University of Hong Kong, supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I received my M.S. and B.S. degrees from Northwestern Polytechnical University in 2023 and 2020, supervised by [Prof. Xuelong Li](http://xuelongli.cn/).
 
@@ -10,7 +10,7 @@ My research interests include Large Language Models, Search Agent, and Recommend
 
 For more information, please feel free to contact me at wl.z@my.cityu.edu.hk.
 
-## News
+## <i class="fa-solid fa-fire" style="color:#e74d3c; margin-right: 6px;"></i> News
 
 - **[May 2026]** Our tutorial *Tutorial on Generative Recommendation: Foundations and Frontiers* is accepted to **KDD'26**. Congratulations to Xiaopeng!
 - **[May 2026]** Our paper *Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing* is accepted to **KDD'26 Benchmark Track**.
@@ -39,11 +39,11 @@ For more information, please feel free to contact me at wl.z@my.cityu.edu.hk.
 
 {% include_relative _includes/publications.md %}
 
-## Work Experience
+## <i class="fa-solid fa-briefcase" style="color:#e74d3c; margin-right: 6px;"></i> Work Experience
 
 - **Research Intern**, Huawei, Noah's Ark Lab.
 
-## Teaching Experience
+## <i class="fa-solid fa-chalkboard-user" style="color:#e74d3c; margin-right: 6px;"></i> Teaching Experience
 
 - **2025-2026 Semester A**, SDSC5002 Exploratory Data Analysis and Visualization, TA
 - **2024-2025 Semester B**, GE2343/SDSC2004 Data Visualization, TA

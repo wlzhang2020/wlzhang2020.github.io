@@ -1,4 +1,4 @@
-<h2 id="education" style="margin: 2px 0px 10px;">Education</h2>
+<h2 id="education" style="margin: 2px 0px 10px;"><i class="fa-solid fa-graduation-cap" style="color:#e74d3c; margin-right: 6px;"></i> Education</h2>
 
 <div class="education">
 <ol class="bibliography" style="list-style: none; padding-left: 0;">

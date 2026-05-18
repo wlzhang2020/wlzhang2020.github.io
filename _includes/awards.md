@@ -1,4 +1,4 @@
-<h2 id="awards" style="margin: 2px 0px 10px;">Honors and Awards</h2>
+<h2 id="awards" style="margin: 2px 0px 10px;"><i class="fa-solid fa-trophy" style="color:#e74d3c; margin-right: 6px;"></i> Honors and Awards</h2>
 
 <div class="awards">
 <ol class="bibliography">
