@@ -1,0 +1,13 @@
+education:
+  - name: City University of Hong Kong
+    logo: ./assets/img/badges/cityu_new_logo.png
+    position: Ph.D. Candidate
+    date: Sep. 2023 - Now
+
+  - name: Northwestern Polytechnical University
+    position: M.S.
+    date: 2020 - 2023
+
+  - name: Northwestern Polytechnical University
+    position: B.S.
+    date: 2016 - 2020
