@@ -9,6 +9,7 @@ main:
     authors: "<strong>Wenlin Zhang</strong>, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao"
     conference_short: "WWW'26"
     conference: "Proceedings of the ACM Web Conference <strong>(WWW'26)</strong>, CCF-A."
+    pdf: https://arxiv.org/abs/2602.03304
 
   - title: "Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning"
     authors: "<strong>Wenlin Zhang</strong>, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao"
@@ -20,7 +21,7 @@ main:
     authors: "<strong>Wenlin Zhang</strong>, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang"
     conference_short: "COLING'25"
     conference: "Proceedings of the 31st International Conference on Computational Linguistics <strong>(COLING'25)</strong>, CCF-B."
-    pdf: https://aclanthology.org/2025.coling-main.59/
+    pdf: https://arxiv.org/abs/2404.00702
 
   - title: "Tutorial on Generative Recommendation: Foundations and Frontiers"
     authors: "Xiaopeng Li, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, <strong>Wenlin Zhang</strong>, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao"
@@ -42,16 +43,19 @@ main:
     authors: "Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, <strong>Wenlin Zhang</strong>, Maolin Wang, Yong Liu, Xiangyu Zhao"
     conference_short: "ACL'26"
     conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, CCF-A."
+    pdf: https://arxiv.org/abs/2604.17265
 
   - title: "MTA: A Merge-then-Adapt Framework for Personalized Large Language Models"
     authors: "Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, <strong>Wenlin Zhang</strong>, Pengyue Jia, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao"
     conference_short: "ACL'26"
     conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, CCF-A."
+    pdf: https://arxiv.org/abs/2511.20072
 
   - title: "Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory"
     authors: "Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, <strong>Wenlin Zhang</strong>, Enhong Chen, Xiangyu Zhao, Tong Xu"
     conference_short: "ACL'26"
     conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, CCF-A."
+    pdf: https://arxiv.org/abs/2605.00702
 
   - title: "Bridging Personalization and AI: From RAG to Agent"
     authors: "Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, Yingyi Zhang, <strong>Wenlin Zhang</strong>, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao"
@@ -69,11 +73,13 @@ main:
     authors: "Xiaopeng Li, <strong>Wenlin Zhang</strong>, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao"
     conference_short: "SIGIR'26"
     conference: "Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR'26 Resource Track)</strong>, CCF-A."
+    pdf: https://arxiv.org/abs/2605.10530
 
   - title: "Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval"
     authors: "Yingyi Zhang, Junyi Li, <strong>Wenlin Zhang</strong>, Pengyue Jia, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao"
     conference_short: "ICLR'26"
     conference: "Proceedings of the 40th International Conference on Learning Representations <strong>(ICLR'26)</strong>."
+    pdf: https://arxiv.org/abs/2603.09250
 
   - title: "From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents"
     authors: "Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, <strong>Wenlin Zhang</strong>, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu"
