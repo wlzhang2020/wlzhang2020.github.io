@@ -5,9 +5,11 @@ education:
     date: Sep. 2023 - Now
 
   - name: Northwestern Polytechnical University
+    logo: ./assets/img/badges/nwpu_logo.png
     position: M.S.
     date: 2020 - 2023
 
   - name: Northwestern Polytechnical University
+    logo: ./assets/img/badges/nwpu_logo.png
     position: B.S.
     date: 2016 - 2020
