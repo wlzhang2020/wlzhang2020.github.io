@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;"><i class="fa-solid fa-file-lines" style="color:#e74d3c; margin-right: 6px;"></i> Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">📑 Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -29,16 +29,16 @@
       <div class="periodical"><em>{{ link.conference }}</em></div>
     <div class="links">
       {% if link.pdf %}
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"><i class="fa-regular fa-file-pdf" style="margin-right: 4px;"></i>PDF</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.code %}
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"><i class="fa-solid fa-code" style="margin-right: 4px;"></i>Code</a>
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.page %}
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"><i class="fa-solid fa-link" style="margin-right: 4px;"></i>Project Page</a>
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
       {% if link.bibtex %}
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"><i class="fa-solid fa-quote-left" style="margin-right: 4px;"></i>BibTex</a>
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %}
       <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
