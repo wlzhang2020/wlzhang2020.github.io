@@ -12,19 +12,19 @@ For more information, please feel free to contact me at wl.z@my.cityu.edu.hk.
 
 ## News
 
-- **[May 2026]** Our tutorial *Tutorial on Generative Recommendation: Foundations and Frontiers* is accepted to **KDD'26**.
+- **[May 2026]** Our tutorial *Tutorial on Generative Recommendation: Foundations and Frontiers* is accepted to **KDD'26**. Congratulations to Xiaopeng!
 - **[May 2026]** Our paper *Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing* is accepted to **KDD'26 Benchmark Track**.
-- **[Apr. 2026]** Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* is accepted to **ICML'26**.
-- **[Apr. 2026]** Our paper *Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization* is accepted to **ICML'26** as a Spotlight paper.
-- **[Apr. 2026]** Our paper *MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search* is accepted to **ACL'26 Main Conference**.
-- **[Apr. 2026]** Our paper *MTA: A Merge-then-Adapt Framework for Personalized Large Language Models* is accepted to **ACL'26 Main Conference**.
-- **[Apr. 2026]** Our paper *Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory* is accepted to **ACL'26 Main Conference**.
-- **[Apr. 2026]** Our tutorial proposal *Bridging Personalization and AI: From RAG to Agent* is accepted to **SIGIR'26**.
-- **[Apr. 2026]** Our paper *GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks* is accepted to **SIGIR'26**.
-- **[Apr. 2026]** Our paper *Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery* is accepted to **SIGIR'26 Resource Track**.
+- **[Apr. 2026]** Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* is accepted to **ICML'26**. Congratulations to Maolin!
+- **[Apr. 2026]** Our paper *Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization* is accepted to **ICML'26** as a Spotlight paper. Congratulations to Junyi!
+- **[Apr. 2026]** Our paper *MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search* is accepted to **ACL'26 Main Conference**. Congratulations to Sheng!
+- **[Apr. 2026]** Our paper *MTA: A Merge-then-Adapt Framework for Personalized Large Language Models* is accepted to **ACL'26 Main Conference**. Congratulations to Xiaopeng!
+- **[Apr. 2026]** Our paper *Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory* is accepted to **ACL'26 Main Conference**. Congratulations to Derong!
+- **[Apr. 2026]** Our tutorial proposal *Bridging Personalization and AI: From RAG to Agent* is accepted to **SIGIR'26**. Congratulations to Pengyue!
+- **[Apr. 2026]** Our paper *GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks* is accepted to **SIGIR'26**. Congratulations to Yejing!
+- **[Apr. 2026]** Our paper *Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery* is accepted to **SIGIR'26 Resource Track**. Congratulations to Xiaopeng!
 - **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* and *Long-Term Memory* has been accepted to **ICLR'26**. Congratulations to Yingyi and Derong!
 - **[Jan. 2026]** Our paper *To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention* is accepted to **WWW'26**.
-- **[Nov. 2025]** Our paper *PBR* is accepted to **AAAI'26**.
+- **[Nov. 2025]** Our paper *PBR* is accepted to **AAAI'26**. Congratulations to Yingyi!
 - **[Sep. 2025]** Our paper *ReasonRAG* is accepted to **NeurIPS'25**.
 - **[Aug. 2025]** I am honored to receive the Outstanding Academic Performance Award granted by CityUHK.
 - **[Aug. 2025]** I am honored to receive the Research Tuition Scholarship granted by CityUHK.
